@@ -6,5 +6,4 @@
   4. to get most prominant color in an image
 
 
-### A better version of this with much more accuracy will be comming in future.
   
